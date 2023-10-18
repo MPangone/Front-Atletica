@@ -1,0 +1,36 @@
+
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  } 
+
+#fundo-tela{
+    background-color: rgb(37, 37, 37);
+}
+
+.titulo2{
+    text-align: center;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card img{
+    display: flex;
+    width: 470px;
+    height: 470px;
+}
+
+.card-text{
+    text-align: left;
+}
+
+.card-title{
+    text-align: center;
+}
+
